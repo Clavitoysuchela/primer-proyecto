@@ -4,3 +4,4 @@ console.log("Hola mundo");
 // Ejecutar en PowerShell desde la carpeta del proyecto:
 // node scrip.js
 
+console.log("Script ejecutado correctamente.");
